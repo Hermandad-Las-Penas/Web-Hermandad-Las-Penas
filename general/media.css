@@ -1,0 +1,15 @@
+@media (max-width: 600px) {
+    .wrapper {
+        margin: 0 auto;
+        width: 90%;
+    }
+
+    .header-banner {
+        height: 100px;
+    }
+
+    .menu > li > a {
+        padding: 4px 8px;
+        font-size: 10px;
+    }
+}

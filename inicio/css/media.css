@@ -1,0 +1,10 @@
+@media (max-width: 600px) {
+    .texto {
+        font-size: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        width: 100%;
+    }
+}
