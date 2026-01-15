@@ -29,7 +29,7 @@ main {
 .banner-img {
     width: 100%;
     height: auto;
-    max-height: 130px;
+    max-height: clamp(130px, 25vh, 350px);
     display: block;
 }
 
